@@ -1,0 +1,2 @@
+$ git rm --cached Proiect-Barbershop
+$ git config --global core.excludesfile ~/.gitignore_global
